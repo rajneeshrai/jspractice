@@ -1,7 +1,6 @@
 # Anagram example
 
-```
-# javscript
+```javascript
 
 let str1 = "abcdf";
 let str2 = "dcbaa";
